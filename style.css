@@ -34,6 +34,6 @@ background: linear-gradient(to right, #1D2671, #C33764); /* W3C, IE 10+/ Edge, F
     box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
 }
 #usernameAlert, #userEmailAlert, #userPasswordAlert
-{
+{ 
     font-size: .8rem;
 }
