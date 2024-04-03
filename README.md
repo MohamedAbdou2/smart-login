@@ -45,3 +45,5 @@ The Welcome Page displays a personalized welcome message to the logged-in user. 
 2. Open the desired page (Sign In, Sign Up, or Welcome) in your web browser.
 3. Interact with the respective page as per your needs (e.g., sign up, sign in).
 4. Enjoy using the Smart Login System!
+
+https://github.com/MohamedAbdou2/smart-login/blob/abc4818a2ba3714fb39c9a5db47f7db2748db331/images/login-page.png
