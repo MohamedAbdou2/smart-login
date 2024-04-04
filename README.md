@@ -1,8 +1,5 @@
 
-Sure, here's how you can structure your README.md file using Markdown:
 
-markdown
-Copy code
 # Smart Login System
 
 This is a simple login system consisting of three pages: Sign In, Sign Up, and Welcome Page. It allows users to sign up, sign in, and displays a welcome message upon successful login. The system utilizes HTML, CSS, Bootstrap, JavaScript, local storage, and regular expressions for input validation.
